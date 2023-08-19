@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9907AB&height=120&section=header"/>
 
-### Hello guys👋, my name Gustavo and i'm 19 years old.
+### Hello guys👋, my name is Gustavo and i'm 19 years old.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustasl._/)
 
