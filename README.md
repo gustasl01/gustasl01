@@ -2,7 +2,7 @@
 
 ### Hello guys👋, my name is Gustavo and i'm 19 years old.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustasl._/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustasll/)
 
 <p align="center">
 <a href="https://github.com/gustasl01">
