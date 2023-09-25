@@ -3,7 +3,7 @@
 ### Hello guys👋, my name is Gustavo and i'm 19 years old.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustasll/)
-
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-leite-67bb7828a/)
 <p align="center">
 <a href="https://github.com/gustasl01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustasl01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
