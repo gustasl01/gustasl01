@@ -9,46 +9,6 @@
 - 📚 I'm currently a academic of Information Systems.
 - 💻 Studying Flutter/Dart, Java, Python and PHP.
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustasl01&theme=algolia" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustasl01&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=3F8AE0" alt="Most Used Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustasl01&theme=algolia" alt="Productive Time"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustasl01&theme=algolia&hide_border=true&background=0D1117&ring=3F8AE0&fire=3F8AE0&currStreakLabel=3F8AE0" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustasl01&theme=algolia" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -56,9 +16,6 @@
     <tr>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustasl01&theme=algolia" alt="Repos per Language"/>
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustasl01&theme=algolia" alt="Most Commit Language"/>
       </td>
     </tr>
   </table>
